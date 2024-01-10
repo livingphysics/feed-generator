@@ -9,6 +9,7 @@ const matchText: string[] = [
   'living matter',
   'living physics',
   'theoretical biology',
+  'physical biology',
 ]
 
 const matchPatterns: RegExp[] = [
