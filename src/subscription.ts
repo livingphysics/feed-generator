@@ -11,6 +11,7 @@ const matchText: string[] = [
   'theoretical biology',
   'physical biology',
   'biological theory',
+  'physics of behavior',
 ]
 
 const matchPatterns: RegExp[] = [
