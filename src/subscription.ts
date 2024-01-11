@@ -10,10 +10,12 @@ const matchText: string[] = [
   'living physics',
   'theoretical biology',
   'physical biology',
+  'biological theory',
 ]
 
 const matchPatterns: RegExp[] = [
-
+  /(^|[\s\W])livingmatter($|[\W\s])/im,
+  /(^|[\s\W])livingphysics($|[\W\s])/im,
 ]
 
 // Include high profile POL users here to always include their posts
