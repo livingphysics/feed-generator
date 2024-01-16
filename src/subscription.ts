@@ -6,7 +6,6 @@ import { FirehoseSubscriptionBase, getOpsByType } from './util/subscription'
 
 const matchText: string[] = [
   'physics of life',
-  'living matter',
   'living physics',
   'theoretical biology',
   'physical biology',
