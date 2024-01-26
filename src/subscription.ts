@@ -21,6 +21,7 @@ const matchPatterns: RegExp[] = [
 
 // Include high profile POL users here to always include their posts
 const matchUsers: string[] = [
+  'did:plc:veib4xwtlli5baydbzbxqtvh',
   //
 ]
 
