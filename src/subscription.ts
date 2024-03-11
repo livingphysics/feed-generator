@@ -8,7 +8,6 @@ const matchText: string[] = [
   'physics of life',
   'living physics',
   'theoretical biology',
-  'physical biology',
   'biological theory',
   'physics of behavior',
   'physics of living matter',
